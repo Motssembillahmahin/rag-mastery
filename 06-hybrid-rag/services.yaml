@@ -1,0 +1,15 @@
+services:
+  required:
+    - chromadb
+    - ollama
+
+  optional:
+    - monitoring
+
+  models:
+    - llama3
+    - all-minilm:latest
+
+  ports:
+    chromadb: 8000
+    ollama: 11434

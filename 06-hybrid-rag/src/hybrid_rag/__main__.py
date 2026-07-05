@@ -1,0 +1,6 @@
+"""Entry point for hybrid_rag module."""
+
+from hybrid_rag.cli.app import main
+
+if __name__ == "__main__":
+    main()
