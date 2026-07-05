@@ -1,0 +1,18 @@
+services:
+  required:
+    - chromadb
+    - ollama
+    - neo4j
+
+  optional:
+    - monitoring
+
+  models:
+    - llama3
+    - all-minilm:latest
+
+  ports:
+    chromadb: 8000
+    ollama: 11434
+    neo4j_http: 7474
+    neo4j_bolt: 7687
