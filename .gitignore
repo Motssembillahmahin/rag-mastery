@@ -49,6 +49,9 @@ Thumbs.db
 .env
 .env.*
 
+# OpenCode
+.opencode/
+
 # Project specific
 models/
 chroma_db/
