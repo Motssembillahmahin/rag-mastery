@@ -124,7 +124,3 @@ config = HyDEConfig(hyde_temperature=0.5)  # Lower = more focused
 # Reduce number of hypothetical docs
 config = HyDEConfig(num_hypothetical_docs=2)
 ```
-
-## License
-
-MIT License
