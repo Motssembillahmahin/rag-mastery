@@ -132,7 +132,3 @@ make infra-up PROJECT=05-graph-rag
 # Reduce max entities
 config = GraphRAGConfig(max_entities=20)
 ```
-
-## License
-
-MIT License
