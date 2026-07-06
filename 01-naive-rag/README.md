@@ -141,7 +141,3 @@ make infra-up PROJECT=01-naive-rag
 # Pull the model manually
 docker exec rag-mastery-ollama ollama pull llama3
 ```
-
-## License
-
-MIT License
