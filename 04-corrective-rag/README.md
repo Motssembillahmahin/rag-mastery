@@ -165,7 +165,3 @@ CORRECTIVE_RAG_RELEVANCE_THRESHOLD=0.5 make run
 # Reduce max attempts
 CORRECTIVE_RAG_MAX_CORRECTION_ATTEMPTS=2 make run
 ```
-
-## License
-
-MIT License
